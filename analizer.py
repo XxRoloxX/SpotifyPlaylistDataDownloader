@@ -11,7 +11,7 @@ redirect_uri='https://www.spotify.com/pl/'
 SCOPE='user-read-private user-top-read playlist-read-collaborative'
 
 #Your access token
-#SPOTIFY_ACCESS_TOKEN='BQAMR6Jl0Ls8VUdIYNSYy6JVW675E-MbrXXu4AFMPoaBlrRc5FgrfeH0nVkEeZzsvpYLZqyLn9mjifw-7e-9JCHOfDDZFl0fkBLeGfEC6iViImG3Vom9Qu2Z9dRH8v7m4oDg-PfHBcXnIFcSuLwKQ8pahKw1ybPV_4DMYULJ_eBRn2Q40dhh'
+#SPOTIFY_ACCESS_TOKEN=''
 
 #Not used
 SPOTIFY_GET_PLAYLIST_URL=f"https://api.spotify.com/v1/users/{USER_ID}/playlists?offset=0&limit=50"
