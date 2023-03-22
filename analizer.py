@@ -6,7 +6,7 @@ from urllib.parse import unquote
 #Not used
 USER_ID = ''
 
-CLIENT_ID='94a74909f0ef48848644eaf00cdaa99d'
+CLIENT_ID=''
 redirect_uri='https://www.spotify.com/pl/'
 SCOPE='user-read-private user-top-read playlist-read-collaborative'
 
